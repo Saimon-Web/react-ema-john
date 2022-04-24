@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "img": "https://cdn.productreview.com.au/resize/article-image/c0b987c4-d2fe-500d-a938-eec8dcb028c2?v=2",
+        "name": "Isuzu D-MAX LS-U+",
+        "rating": "4",
+        "text": "This is the Isuzu D-MAX LS-U+, and its the bridging model between the LS-U and the off-road focused X-TERRAIN. Its meant to be the best of both worlds: a luxurious working truck that you enjoy using on your time off too."
+    },
+    {
+        "id": "2",
+        "img": "https://cdn.productreview.com.au/resize/article-image/3804bb35-c065-5d8a-aff9-d1a7f330788b?v=2",
+        "name": "Kia Rio YB GT-Line",
+        "rating": "5",
+        "text": "In this small hatch category, you have a few choices from brands like Toyota, Skoda and even Audi. But it's clear that Kia wants to take on the popular VW Polo with this updated Kia Rio. Find out if it's worth buying the Rio, or simply just head to your nearest VW dealership instead."
+    },
+    {
+        "id": "3",
+        "img": "https://cdn.productreview.com.au/resize/article-image/0e0a53af-83f1-573e-af5d-fef9d2202297?v=2",
+        "name": "Volvo XC40 Recharge Pure Electric",
+        "rating": "5",
+        "text": "This is Volvo's first electric SUV. It's quick, powerful, luxurious and very well thought out. I wasn't expecting a lot when reviewing this electric car. However, after this review, I think this might be one of the best EVs on sale under $100,000 here in Australia."
+    },
+    {
+        "id": "4",
+        "img": "https://cdn.productreview.com.au/resize/article-image/e1642c4c-ba14-5a77-958e-39efe4e28800?v=2",
+        "name": "Hyundai IONIQ 5 AWD",
+        "rating": "5",
+        "text": "This is it. Finally, in 2022 we have more competition than ever against the extremely popular Tesla Model 3. This is the Hyundai IONIQ 5 and it's potentially the best option below $100,000 here in Aus if you want a fast, comfortable and state-of-the-art EV. Take a tour of its features and see if its worth buying instead of opting for the car with a letter T on the bonnet."
+    },
+    {
+        "id": "5",
+        "img": "https://cdn.productreview.com.au/resize/article-image/209cc3fa-1f03-43c3-9947-b5f231875f37?v=2",
+        "name": "Jaguar XE R-Dynamic Black P300 AWD",
+        "rating": "5",
+        "text": "You need to sign another 5 year lease for a luxury sedan for work. You've already tried the likes of the Mercedes C Class, BMW 3 Series and Audi A4. Now, Jaguar is launched the most convincing case to drive something a little more exciting. It's the better looking, more powerful and still very luxurious sedan from the iconic British brand. It now comes with a 5 year warranty and a capped price service plan. Find out in this review if this is worth buying in 2022."
+    },
+    {
+        "id": "6",
+        "img": "https://cdn.productreview.com.au/resize/article-image/3ac5ad3a-c6d0-4b34-9d2e-4019552837aa?v=2",
+        "name": "Land Rover Discovery S D300",
+        "rating": "5",
+        "text": "The new Land Rover Discovery is more luxurious and more powerful than ever. However, there's another big, luxurious and powerful Land Rover called the Defender that's out on sale too. So, where does that put this 7-seater SUV in this crowded line-up? Is it worth buying over the cheaper Discovery Sport and instead of the larger and more rugged Defender? Find out in this review"
+    }
+]

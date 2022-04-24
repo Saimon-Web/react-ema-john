@@ -1,0 +1,74 @@
+[
+    {
+        "id": "01",
+        "name": "  Gaming Headset",
+        "price": 40,
+        "img": "https://images-na.ssl-images-amazon.com/images/I/71Wuv0p6UfL.__AC_SX300_SY300_QL70_FMwebp_.jpg "
+    },
+    {
+        "id": "02",
+        "name": "Super Headset",
+        "price": 50,
+        "img": "https://m.media-amazon.com/images/I/51kxIEmO+ZL._AC_UY218_.jpg "
+    },
+    {
+        "id": "03",
+        "name": "Pro Headset",
+        "price": 60,
+        "img": "https://m.media-amazon.com/images/I/61QIMDB3YTL._AC_UY218_.jpg "
+    },
+    {
+        "id": "04",
+        "name": "Pro Altra Headset",
+        "price": 70,
+        "img": "https://m.media-amazon.com/images/I/61CGHv6kmWL._AC_UY218_.jpg "
+    },
+    {
+        "id": "05",
+        "name": "Normal Headset",
+        "price": 30,
+        "img": "https://m.media-amazon.com/images/I/71waplSVO7L._AC_UY218_.jpg"
+    },
+    {
+        "id": "06",
+        "name": "Bluetooth Headset",
+        "price": 100,
+        "img": "https://m.media-amazon.com/images/I/71g5MRbP52L._AC_UY218_.jpg"
+    },
+    {
+        "id": "07",
+        "name": "Max Wireless Headset",
+        "price": 120,
+        "img": "https://m.media-amazon.com/images/I/71Xcl-j5ipL._AC_UY218_.jpg"
+    },
+    {
+        "id": "08",
+        "name": "Max Pro Headset",
+        "price": 90,
+        "img": "https://m.media-amazon.com/images/I/71Wuv0p6UfL._AC_UY218_.jpg"
+    },
+    {
+        "id": "09",
+        "name": "Best Game Headset",
+        "price": 150,
+        "img": "https://m.media-amazon.com/images/I/71BKQhFzDmL._AC_UY218_.jpg"
+    },
+    {
+        "id": "10",
+        "name": " Gaming Pro Headset",
+        "price": 140,
+        "img": "https://m.media-amazon.com/images/I/71whLHkw10L._AC_UY218_.jpg"
+    },
+    {
+        "id": "11",
+        "name": " Max Gaming  Headset",
+        "price": 160,
+        "img": "https://m.media-amazon.com/images/I/71whLHkw10L._AC_UY218_.jpg"
+    },
+    {
+        "id": "12",
+        "name": " ultra Pro Headset",
+        "price": 120,
+        "img": "https://m.media-amazon.com/images/I/61nnZlMLDpL._AC_UY218_.jpg"
+    }
+]
